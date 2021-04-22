@@ -11,6 +11,8 @@
 
 [![AitBouna's GitHub stats](https://github-readme-stats.vercel.app/api?username=Abderrahim)](https://github.com/abderrahimJK/github-readme-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abderrahimJK&layout=compact)](https://github.com/abderrahimJK/github-readme-stats)
+
 ### Connect with me:
 
 [<img align="left" alt="Ait_Bouna" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
