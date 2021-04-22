@@ -9,7 +9,7 @@
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to draw and play chess!
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Abderrahim)](https://github.com/abderrahimJK/github-readme-stats)
+[![AitBouna's GitHub stats](https://github-readme-stats.vercel.app/api?username=Abderrahim)](https://github.com/abderrahimJK/github-readme-stats)
 
 ### Connect with me:
 
