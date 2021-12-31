@@ -6,7 +6,7 @@
 - 🔭 I’m currently prepper my graduation
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2021 Goals: Contribute more to Open Source projects
+- 🥅 2022 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to draw and play chess!
 
 [![AitBouna's GitHub stats](https://github-readme-stats.vercel.app/api?username=Abderrahim)](https://github.com/abderrahimJK/github-readme-stats)
