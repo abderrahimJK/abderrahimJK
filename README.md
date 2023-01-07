@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2023 Goals: Contribute more to Open Source projects & learn more about AI/ML
-- ⚡ Fun fact: I love to draw and play chess!
+- ⚡ Fun fact:
 
 [![AitBouna's GitHub stats](https://github-readme-stats.vercel.app/api?username=Abderrahim)](https://github.com/abderrahimJK/github-readme-stats)
 
