@@ -9,7 +9,7 @@
 - 🥅 2023 Goals: Contribute more to Open Source projects & learn more about AI/ML
 - ⚡ Fun fact:
 
-[![AitBouna's GitHub stats](https://github-readme-stats.vercel.app/api?username=Abderrahim)](https://github.com/abderrahimJK/github-readme-stats)
+[![AitBouna's GitHub stats](https://github-readme-stats.vercel.app/api?username=abderrahimjk)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abderrahimJK&layout=compact)](https://github.com/abderrahimJK/github-readme-stats)
 
