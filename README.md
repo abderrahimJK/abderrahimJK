@@ -1,7 +1,7 @@
 ### Hi there, I'm Abderrahim -[Ait_Bouna][website] 👋
 
 
-## I'm a Student, Developer, and Your frend!
+## I'm a Student, Developer, and friend!
 
 - 🔭 I’m currently prepper my graduation
 - 🌱 I’m currently learning everything 🤣
