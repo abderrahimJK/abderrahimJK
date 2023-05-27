@@ -75,10 +75,3 @@
 <details>
   <summary>:zap: Recent Github Activity</summary>
 </details>
-
-
-[website]: http://www.stage.ma/abderrahim-aitbouna
-[twitter]: https://twitter.com/ait_bouna
-[youtube]: https://youtube.com/Abderrahimaitbouna
-[instagram]: https://instagram.com/abd_errahim_bouna
-[linkedin]: https://linkedin.com/in/Abderrahimaitbouna
