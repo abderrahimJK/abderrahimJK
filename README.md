@@ -4,7 +4,7 @@
 
 <h3 align="center">
         <samp>&gt; Hey There!, I am
-                <b><a target="_blank" href="https://www.google.com/search?q=abderrahim+ait+bouna">Abderrahim Ait Bouna</a></b>
+                <b><a target="_blank" href="https://www.linkedin.com/in/abderrahim-aitbouna-0637a4195/">Abderrahim Ait Bouna</a></b>
         </samp>
 </h3>
 
