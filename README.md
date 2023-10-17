@@ -13,7 +13,7 @@
   <samp>
     <a href="https://www.google.com/search?q=Abderrahim+Ait+Bouna">「 Google Me 」</a>
     <br>
-    「 <b>I am a fsoftware engeneer | Data scientist</b> 」
+    「 <b>I am a Software Engineering  | Data Scientist</b> 」
     <br>
     <br>
   </samp>
