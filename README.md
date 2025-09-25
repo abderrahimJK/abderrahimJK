@@ -28,7 +28,7 @@
 - 🔭 I’m currently prepper my graduation
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2024 Goals: Contribute more to Open Source projects & learn more about AI/ML
+- 🥅 2025 Goals: Contribute more to Open Source projects & learn more about AI/ML
   
 </p>
 
